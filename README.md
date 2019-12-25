@@ -1,3 +1,3 @@
 # Cekilisuygulamsı
-verilen text de random olarak seçim yapma
+swing tasarım ve verilen text de random olarak seçim yapma
  
